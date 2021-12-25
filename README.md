@@ -1,1 +1,1 @@
-# My-Cart-Django
+News App 
